@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import './UploadForm.scss';
+import './UploadForm.css';
 import ProgressBar from '../ProgressBar/ProgressBar';
 
 const UploadForm = () => {

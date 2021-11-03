@@ -1,5 +1,5 @@
 import React from 'react';
-import './PhotoGrid.scss';
+import './PhotoGrid.css';
 import UseFirestore from '../../hooks/useFirestore';
 import {motion} from 'framer-motion';
 

@@ -1,0 +1,30 @@
+form{
+    margin: 30px auto 10px;
+    text-align: center;
+}
+label input{
+  height: 0;
+  width: 0;
+  opacity: 0;
+}
+label{
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  font-size: 20px;
+  width: 110px;
+  line-height: normal;
+  background: #ee8a89;
+  color: white;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+}
+.output{
+  height: auto;
+  font-size: 0.8rem;
+  margin: 10px 0px;
+  transition: .3s;
+}
+.error{
+  color: rgb(231, 98, 98);
+}
