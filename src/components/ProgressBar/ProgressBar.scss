@@ -1,0 +1,9 @@
+.progress-wrapper{
+    margin: 20px 0px 10px 0px;
+    .progress-bar{
+        height: 5px;
+        background-color: #ee8a89;
+        margin-top: 5px;
+        transition: .2s ease-in-out;
+    }
+}
